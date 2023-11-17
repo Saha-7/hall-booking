@@ -65,9 +65,7 @@
 - **URL:**
   - [http://localhost:3000/customers/:name](http://localhost:3000/customers/:name)
 
-- **Parameters:**
-  - `name` (string): Name of the customer.
 
 ---
 
-**Note:** Adjust the base URL accordingly based on your deployment environment.
+
